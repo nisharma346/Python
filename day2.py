@@ -61,3 +61,40 @@
 # num=int(num)
 # print(num)
 # print(type(num))
+
+# num=10
+# num=str(num)
+# print(num)
+# print(type(num))
+
+# price=99.99
+# price=int(price)
+# print(price)
+
+# User se do numbers string ke form me lekar addition karo
+# n=input("enter the number")
+# m=input("enter the number")
+# print(int(m+n))
+
+# name=input("enter your name:")
+# age=int(input("enter your age:"))
+# print("Hello",name,age)
+
+# Name=input("Enter your name:")
+# Age=int(input("Enter your age:"))
+# Marks=float(input("Enter your marks"))
+# print("Name:",Name)
+# print("Age",Age)
+# print("marks",Marks)
+
+# Operators
+# a=5
+# b=3
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+# print(a//b)
+# print(a%b)
+# print(a**b)
+
