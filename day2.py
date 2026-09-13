@@ -87,7 +87,7 @@
 # print("Age",Age)
 # print("marks",Marks)
 
-# Operators
+#arithemetic Operators
 # a=5
 # b=3
 # print(a+b)
